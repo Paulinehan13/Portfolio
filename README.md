@@ -1,2 +1,2 @@
 # paulinehannah.github.io
-Protfolio Webpage
+Portfolio Webpage
