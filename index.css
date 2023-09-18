@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.body_container{
+    height: 600px;
+    background-color: palevioletred;
+}
+.nav_container{
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 65%;
+    padding-top: 24px;
+}
+
+.bar_container{
+    height: 40px;
+    width: 70px;
+    /* background-color: rgb(255, 238, 238); */
+    margin-right: 30px;
+}
+
+a{
+    color: white;
+}
+
+.welcome_container{
+    height: 430px;
+    background-color: rgb(226, 226, 226);
+    background-image: url("images/pexels-lisett-kruusimäe-13076227.jpg");
+    background-size: cover;
+    padding-top: 250px;
+    padding-left: 700px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.welcome{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.tag{
+    margin-top: 300px;
+    margin-left: 300px ;
+}
